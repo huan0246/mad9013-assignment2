@@ -55,7 +55,7 @@ img {
 /* - - - - - - - - - - Main - - - - - - - - - - */
 
 .hero {
-  background-image: url('../img/hero-banner.jpg'); /* Image by Comfreak from Pixabay https://pixabay.com/illustrations/ship-shipwreck-adventure-setting-1366926/ */
+  background-image: url('../img/hero-banner.jpg');
   height: 90vh;
   display: flex;
   align-items: center;
